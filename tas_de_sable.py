@@ -10,4 +10,10 @@
 import tkinter as tk
 
 #########################
-#
+# variables
+L = 3 #largeur de la grille
+
+#########################
+
+for i in range(L):
+    for j in range(L):
