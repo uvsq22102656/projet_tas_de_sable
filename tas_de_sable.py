@@ -8,12 +8,25 @@
 #########################
 # import des librairies
 import tkinter as tk
+import random as rd
 
 #########################
 # variables
-L = 3 #largeur de la grille
-
+L = 4 #largeur de la grille
+HEIGHT = 500
+WIDTH = 500
 #########################
+# partie pricipale
 
-for i in range(L):
-    for j in range(L):
+# création widgets
+racine = tk.Tk() # Création de la fenêtre racine
+"""bouton = tk.Button(racine, text="initialisation")
+canvas = tk.Canvas(racine, height=HEIGHT, width=WIDTH)
+
+#placement des widgets
+bouton.grid(column=0, row=1)
+canvas.grid(column=0, row=0)
+"""
+        
+#boucle principale
+racine.mainloop()
