@@ -1,4 +1,5 @@
 #########################################
+# DLMP groupe 6
 # NOUVEAU Maxence
 # DERWEL Nathan 
 # VOLIVERT Coline
@@ -11,22 +12,29 @@ import tkinter as tk
 import random as rd
 
 #########################
-# variables
-L = 4 #largeur de la grille
+#CONSTANTES
+
+#taille de la grille
+L = 4
+#hauteur de la grille
 HEIGHT = 500
+#largeur de la grille
 WIDTH = 500
+
+
 #########################
 # partie pricipale
 
 # création widgets
-racine = tk.Tk() # Création de la fenêtre racine
-"""bouton = tk.Button(racine, text="initialisation")
+racine = tk.Tk()
+racine.title("projet tas de sable")
+bouton = tk.Button(racine, text="initialisation",)
 canvas = tk.Canvas(racine, height=HEIGHT, width=WIDTH)
 
 #placement des widgets
 bouton.grid(column=0, row=1)
 canvas.grid(column=0, row=0)
-"""
+
         
 #boucle principale
 racine.mainloop()
