@@ -11,7 +11,7 @@ WIDTH = 500
 
 #variable globale
 grille = [] #contient uniquement les id des cases pour modif param. graphiques
-"""Q : créé une autre liste qui stock le nb de grains de sable ?
+"""Q : créer une autre liste qui stock le nb de grains de sable ?
 (oui si operation sur valeur necessaire)
 [sinon obligé de recuperer valeur dans str du rectangle = galere ?]"""
 
