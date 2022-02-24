@@ -53,7 +53,6 @@ canvas = tk.Canvas(racine, height=HAUTEUR, width=LARGEUR)
 bouton.grid(column=0, row=1)
 canvas.grid(column=0, row=0)
 
-#initialisation()
 
 #boucle principale
 racine.mainloop()
