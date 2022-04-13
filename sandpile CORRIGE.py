@@ -13,7 +13,7 @@ import random as rd
 # constantes
 
 # taille de la grille carrée
-N = 4
+N = 100
 # dimensions du canvas et de la grille
 LARGEUR = 450
 HAUTEUR = 450
