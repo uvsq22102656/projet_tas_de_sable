@@ -1,5 +1,5 @@
 #########################################
-# DLMP groupe pçol_ikèu-jy(ht'g"r)
+# DLMP groupe 6
 # NOUVEAU Maxence
 # DERWEL Nathan 
 # VOLIVERT Coline
