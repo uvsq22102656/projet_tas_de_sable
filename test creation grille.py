@@ -42,7 +42,7 @@ def initialisation():
 
 def insert_valeur(n):
     """insertion des valeurs comprises entre 0 et n dans la grille à la place des 0"""
-    global grille, case,
+    global grille, case
     canvas.delete("all")
     liste_coul = ['lightgoldenrod','gold', 'goldenrod','darkgoldenrod','brown']
     for i in range(L):
